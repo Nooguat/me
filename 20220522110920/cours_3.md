@@ -45,11 +45,16 @@ Guerre contre le terrorisme
 3) L'interet materiel du au cout de la destruction
 
 Autre caracteristique fondamentale de la guerre : **La trinite clausewitzienne**
+
+
 Elle se base sur 3 principes :
   Les passions meurtrieres : combattants
   Le calcul des probabilites militaires : strateges
   La rationnalite politique : but politique
+
 Differences sont dans les degres que prennent chaque caracteristique
+
+
 [Exemple]
 Conflits entre deux ideologies meurtrieres : le pole A va prendre le dessus
   Hitler, en tuant tous les slaves sans distinction perd un appui certain de la population qui ne voulait pas de la dictature communiste
