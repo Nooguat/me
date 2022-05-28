@@ -60,4 +60,6 @@ Conflits entre deux ideologies meurtrieres : le pole A va prendre le dessus
   Hitler, en tuant tous les slaves sans distinction perd un appui certain de la population qui ne voulait pas de la dictature communiste
   De meme, il oublie les probabilites militaires en ne laissant pas ses troupes battre en retraite en Afrique
 
+---
+
 Conclusion : la variete des guerres ne change rien a l'essence de la guerre
