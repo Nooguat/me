@@ -46,3 +46,72 @@ conclusion : 7/10 francais pensent qu'ils n'ont pas besoin de se proteger
 -> preferent ne pas s'informer sur le sujet (trop complexe)
 
 stopper le **cyberoptimisme**
+
+## Concept de data-privacy
+Protection de la vie privee -> sujet qui fache 
+
+Informations que l'on souhaite pas voir sur la scene publique
+
+
+preoccupation de la vie privee -> idee ancienne qui avait pour but le profilage des consomateurs (1995), idee tres detestee par ceux-ci
+
+Possede aujourd'hui une dimension sociale avec le nombre d'usages d'Internet et les capacites des acteurs du net (Cambrige Analytica)
+
+**Comment me proteger et proteger mes donnees pour que je puisse garder un libre arbitre dans mes decisions ?**
+
+RGPD (mis en place en 2018)
+
+Donnees a caractere personnel : informations qui permettent de determiner l'invidu et ses besoins (materialite de la preoccupation) -> profilage fin 
+
+(voir la defintion du RGPD) // Evaluation personnelle et subjective : les choix des invidius de partager ou non certaines informations; **sauf les donnees sensibles (politique, sante, religion...) qui sont protegees par defintion**
+
+- sentiment de propriete des donnees : self extending (partie de la personne)
+
+**la notion de donnees privees n'existe pas en droit (mais notion de vie priveee si)**
+
+## Data Privacy Paradox 
+
+Expose les ecarts entre les preoccupations et les actes 
+
+Comment l'expliquer ? Irrationationnel ? Contraint et depasse ?
+
+Rarement irrationanel -> donc depasse
+
+Liste des paradoxes : 
+- Ecarts consentis : Ecarts justes et logiques : devoir decliner son identite quand on prends le train; lors d'un controle d'identite... 
+- Ecarts coherents : Ecarts du a la mise en visibilite de soi : reseaux sociaux -> mise en scene pour obtenir des interactions avec les autres
+- Ecarts subis : Quand l'utilisateur ne sait pas quel est l'objet du prevelement des donnees -> il ne prends pas la peine de lire le texte decrivant la collecte (trop long ou pas envie) -> *pas de consentement eclaire*
+
+**la collecte peut aussi etre mene en finger printing : prise d'information sur la machine; pas sur les actions entreprises par l'individu**
+
+- Ecarts consecutifs au manque d'options : Faute de solutions alternatives; on accepte la solution par default (manque de competence)
+
+-> Parfois les ecarts sont percus comme inevitables (chantage a l'acces; pas de connaissance du droit; inevitable du au poids des acteurs du web) -> mene a une forme de resignation; soumission
+
+## Data privacy comme moteur de l'esprit cyber
+
+Effet push : data-privacy s'impose aux organisations -> imposee par la RGPD
+
+Exigence des utilisateurs de reprendre le controle de leurs donnees 
+
+Mediatisation des travaux de recherche : collecte de donnee
+
+Regroupement des utilisateurs
+
+Effet pull : Attirer les clients/citoyens
+
+Garantie de confiance 
+
+Vecteurs de differentiations
+
+Objectif : creer une relation "win-win" entre les services et les citoyens
+
+Risque pour les services s'ils ne mettent pas en place cette relation : les utilisateurs vont tenter de se cacher; donner de fausses informations (irrationalite assumee)
+
+---
+
+## Conclusion 
+- La data-privacy devient un aspect cle a travers le RGPD et son besoin par tout les utilisateurs
+  - Moins anxiogne que la presentation des risques
+  - Mise en place d'une hygiene numerique 
+- C'est une piste de sensibilisation a la cyber-securite 
