@@ -113,7 +113,7 @@ En Europe, il existe une culture juridique forte, souvent moquee, mais permet d'
 Creation de documentation
   - Cartographie des donnees: donnees sensibles / non sensibles
     Hierarchisation des donnees : pas la meme importance entre la donnee d'un bon de commande et la donnee d'un numero de carte bancaire
-  - Charte d'utilisation des systemes d'information : droits et devoirs des utilisateurs; toute personne qui est amene a utiliser le SSI le fasse dans le respect de CIA
+  - Charte d'utilisation des systemes d'information : droits et devoirs des utilisateurs toute personne qui est amene a utiliser le SSI le fasse dans le respect de CIA
   - Politique de securite des systemes d'information (PSSI) : objectifs et moyens de la cybersecurite; codifie (on en trouve un peu partout). Demande une certaine expertise 
 2. **gestion des donnees personnelles**
 Toute donnee permettant d'identifier une personne physique est une donnee personnelle
@@ -136,5 +136,71 @@ Une societe souhaite repenser tout son systeme d'information en ressources humai
   - Documents : Contrat et registre
   - Mesures techniques : Protections automatiques et par defaut
 ## Lutte contre la cybercriminalite
+  Droit complexe, en plein evolution
+  Classiquement regroupe en deux parties: 
+  Deux series d'infractions :
+    - A l'encontre des systemes informatiques (atteinte au STAD (Systeme de Traitement Automatise des Donnees)) -> fin en soi
+    - A l'aide des systemes informatiques (extorsion; escroquerie; chantage...) -> facteur d'amplification de delit; moyen 
+    
+  Il existe des comportement plus complexe: **ransomware** tres lucratif 
+    
+  Difficile a contrer et tres impactante -> pression par extorsion 
 
+  D'apres l'ANSSI il est deconseille de payer la rancon, pas certain de pouvoir recuperer les donnees et alimentation du systeme -> quelle plainte depossee -> ransomware n'existe pas dans le code penal; il faut faire le lien avec une autre infraction. Or :
+    - Pas une escroquerie :  pas d'abus d'une qualite
+    - Pas un chantage : pas d'atteinte a l'honneur ou a la consideration
+    - Pas une demande de fonds sous contrainte : Doit etre fait sur la voie publique 
+  Est donc considere comme une extorsion; ou atteinte a un STAD (modification) -> Pourquoi choisir ? Parce que *Non bis in idem* -> impossible de qualifier plusieurs infractions pour un comportement
+    
+  ---
+  Le mieux serait de choisir l'extorsion car c'est la **finalite** de l'intention coupable. De plus, la peine la plus forte l'emporte or l'extorsion est punie de 7 ans d'emprisonnement maximum
 ## Cyberdefense nationale
+  Reglementation francaise
+  * Definitions importantes 
+    OIV : Operateur d'Importance Vitale (liste classee secret defense)
+    OSE : Operateur de Services Essentiels (service dont l'interruption serait significative (un degre en dessous des OIV))
+    FSN : Fournisseur de Services Numeriques (())
+  
+  Instructions interministerielles et les decrets d'application...
+  Les OSE et les FSN sont des creations europeennes (2016); directive SRI   
+
+  Spectre le plus large; touche les reglementations tres dures et des efforts juridiques qui sont plus de l'ordre de la diplomatie ou de l'entente internationale. 
+  
+  Textes non contraigants; ayant un impact sur le comportement juridique du pays ou des entreprises :
+  - Livres Blancs (2008-2013) : Annonce la politique qui va etre menee sur lesujet
+  - Revue Strategique de Cyberdefense (2018) : Reconnu et acclame 
+  - Appel de Paris pour la confiance et la securite dans le cyber-espace (2018) :  declaration de haut niveau
+  - Doctrine sur le Droit international applique aux operations dans le cyber-espace (2020) : porte par Florence Parly
+  
+### Cas d'usage
+  Cybersecurite d'un OIV 
+  
+  Il faut comprendre ce que signifie l'importance vitale : 12 secteurs (SAIV) en France : l'alimentation, l'espace, l'energie, les transports... qui sont assure par les ministres (ministre coordonateur -> attribue les OIV)
+
+  *Quelles sont les recommandations que l'on peut donner a un OIV ?*
+
+  1. Contacter l'ANSSI -> accompagne la conversion vers le status technique et juridique des OIV 
+  2. Appliquer les recommandations elementaires
+    - Declaration des SIIV (Systeme d'Information d'Importance Vitale)
+      Apres etude d'impact (formulaire classe secret defense)
+    - Application des 20 categories de regles de securite
+      Exemples : 
+        - Journalisation 
+        - Detection et les Droits d'acces
+        - L'acces a distance 
+    - Declaration et controles des prestataires de service qualifies
+      Il faut de la transparence et de controle
+    - Gestion des prestataires
+      Obligation de faire respecter les categories
+    
+    Si ces recommandations ne sont pas appliquees, les dirigeants risquent 150k euros d'amende, 5 fois plus pour l'entreprise. 
+
+---
+Le droit francais des OIV a servi de modele pour l'Europe 
+
+Le systeme OSE / FSN permet une harmonisation europeene
+
+## Conclusion generale
+- Domaine bien plus vaste -> traite d'un certain nombre de domaines 
+- Droit lourd et complexe; ne doit pas etre vu comme une lourdeur
+- Les citoyens ne doivent pas se rendre compte de l'importance de cette mise en place, le droit fonctionne
