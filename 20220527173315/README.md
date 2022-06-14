@@ -1,6 +1,0 @@
-# New note
-
-link
-
-
-[Sources]
